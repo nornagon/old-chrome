@@ -1,6 +1,7 @@
 {
   "name": "old-chrome",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "bin": "get-chromium-package.js",
   "description": "Get download links for old versions of Chromium",
   "main": "get-chromium-package.js",
   "dependencies": {
